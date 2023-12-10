@@ -1,14 +1,14 @@
-# U-PHISHER
+# P-PHISHER
 
 <p align="center"><img src="https://github.com/U7P4L-IN/U-PHISHER/blob/main/Image/U-PHISHER.png">
 
 
 <p align="center">
-Automated Phishing Tool Made By U7P4L 1N To Phish Various Sites With 51+ Templates And Also Has An Inbuilt Reverse Proxy Already To Easily Help You Generate Your Link And Send It To Your Victim. 
+Automated Phishing Tool To Phish Various Sites With 51+ Templates And Also Has An Inbuilt Reverse Proxy Already To Easily Help You Generate Your Link And Send It To Your Victim. 
 U-phisher Tool Is Made With Pure Bash Script And Needs Required Packages For It To Work.
 </p>
 
-## 🚀U-PHISHER: V 3.3.2
+## 🚀P-PHISHER: V 3.3.2
 ## FREE PHISHING PANEL.🚀
 
 <p>
@@ -18,12 +18,12 @@ U-phisher Tool Is Made With Pure Bash Script And Needs Required Packages For It 
  
 </p>
 
-# U-PHISHER
+# P-PHISHER
 <p align="center"><img src="https://github.com/U7P4L-IN/U-PHISHER/blob/main/Image/Screenshot_2023-07-24-13-10-50-534_com.termux-01.jpeg">
 
 # Created by
 ```
-U7P4L 1N 
+Thijs Floryn
 ```
 
 # Tested on
